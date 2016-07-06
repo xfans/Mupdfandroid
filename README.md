@@ -1,5 +1,5 @@
 ##Mupdf是一个开源的、轻量级的PDF、XPS解析器。支持windows、linux、ios、android等平台。
-
+http://www.mupdf.com/
 由于编译比较麻烦，可以使用编译好的项目。
 
 效果图
