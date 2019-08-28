@@ -1,4 +1,4 @@
-##Mupdf是一个开源的、轻量级的PDF、XPS解析器。支持windows、linux、ios、android等平台。
+## Mupdf是一个开源的、轻量级的PDF、XPS解析器。支持windows、linux、ios、android等平台。
 http://www.mupdf.com/
 由于编译比较麻烦，可以使用编译好的项目。
 
@@ -6,7 +6,7 @@ http://www.mupdf.com/
 
 ![image](https://raw.githubusercontent.com/xfans/Mupdfandroid/master/2014052301.png)
 
-###整合项目
+### 整合项目
 
 1. 下载编译完的项目。
 
@@ -18,7 +18,7 @@ http://www.mupdf.com/
 
 5. 在Mainfest文件中添加Activity。
 
-###使用
+### 使用
 
 ```java
 Uri uri = Uri.parse(filename);
